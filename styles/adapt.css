@@ -1,0 +1,17 @@
+@media (max-width: 425px){
+    .main_conteiner{
+        display: flex;
+        flex-direction: column;
+        width: 26em;
+    }
+    .first_conteiner{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .second_conteiner{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
